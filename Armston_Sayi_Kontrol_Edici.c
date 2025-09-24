@@ -2,11 +2,11 @@
 #include <stdlib.h>
 #include <math.h>
 /*
-Görev:
+GÃ¶rev:
 Bir sayinin Armstrong sayi olup olmadigini kontrol eden bir program yaz.
 Tanim:
 Bir sayinin basamaklarindaki her rakamin, basamak sayisi kadar
-üssü alinarak toplanmasi sayinıin kendisine esitse bu sayiya Armstrong sayi denir.
+Ã¼ssÃ¼ alinarak toplanmasi sayinÄ±in kendisine esitse bu sayiya Armstrong sayi denir.
 */
 int main()
 {
@@ -29,3 +29,4 @@ int main()
     }
     return 0;
 }
+
