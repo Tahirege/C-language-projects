@@ -1,4 +1,10 @@
-    int süre,saat,kalan1,dakika,saniye;
+#include <stdlib.h>
+#include <stdio.h>
+#include <unistd.h>
+
+
+int main(){
+        int süre,saat,kalan1,dakika,saniye;
     printf("Kaç saniye geriye saymak istersiniz: ");
     scanf("%d",&süre);
 
@@ -14,3 +20,4 @@
     }
     printf("Süre bitti!");
     return 0;
+}
